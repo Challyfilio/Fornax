@@ -114,3 +114,5 @@ dmypy.json
 .pyre/
 
 .idea/
+AirplaneDetection/datasets/
+AirplaneDetection/temp/
