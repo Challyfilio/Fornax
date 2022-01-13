@@ -1,4 +1,4 @@
-#统计训练过程中的loss
+# 统计训练过程中的loss
 class Averager:
     def __init__(self):
         self.current_total = 0.0

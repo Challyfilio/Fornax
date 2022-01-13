@@ -7,6 +7,7 @@ import json
 from PIL import Image
 from skimage import io
 
+
 class AirplaneDetDataset(torch.utils.data.Dataset):
     def __init__(self, root, anno_file, transforms=None):
         self.root = root
